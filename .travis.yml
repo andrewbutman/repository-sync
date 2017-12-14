@@ -9,5 +9,5 @@ notifications:
 
 env:
   global:
-    MACHINE_USER_NAME: Hubot
-    MACHINE_USER_EMAIL: hubot@example.com
+    MACHINE_USER_NAME: Andrew
+    MACHINE_USER_EMAIL: Andrew.butman@dxc.com
